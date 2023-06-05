@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Marcosegm/Curso-Asincrono-JS/issues"
   },
-  "homepage": "https://github.com/Marcosegm/Curso-Asincrono-JS#readme"
+  "homepage": "https://github.com/Marcosegm/Curso-Asincrono-JS#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
