@@ -1,0 +1,20 @@
+{
+  "name": "curso-asincronismo-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcosegm/Curso-Asincrono-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcosegm/Curso-Asincrono-JS/issues"
+  },
+  "homepage": "https://github.com/Marcosegm/Curso-Asincrono-JS#readme"
+}
